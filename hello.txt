@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit by work2
+=======
+commit by work1
+>>>>>>> 18c7123c66cbe8263e8f96f41eb6440439393645
